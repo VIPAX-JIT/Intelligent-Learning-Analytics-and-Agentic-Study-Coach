@@ -1,5 +1,5 @@
 # Intelligent-Learning-Analytics-and-Agentic-Study-Coach
-Project 2: Intelligent Learning Analytics and Agentic Study
+Project: Intelligent Learning Analytics and Agentic Study
 Coach
 Project Objective
 Design and implement an AI-powered learning analytics system that analyzes student perfor-
